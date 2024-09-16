@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://njgua.github.io/PdD/sitemap.PdD.gz
